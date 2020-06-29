@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="img/logo-uri.png" width="100px" height="100px">
-<p>
+<p style="text-align: center;">
+  <img src="../img/logo-uri.png" width="200px" height="100px">
+</p>
+
+<h1 style="text-align: center;">URI ONLINE JUDGE</h1>
 
 O [URI Online Judge](https://www.urionlinejudge.com.br/) contém mais de 1000 problemas divididos em 8 grandes categorias. Esta divisão ajuda os usuários a focar em temas específicos. Todos os problemas estão disponíveis em Português e Inglês.
 
@@ -8,18 +10,18 @@ O [URI Online Judge](https://www.urionlinejudge.com.br/) contém mais de 1000 pr
 
 Aqui você encontra as minhas soluções para os problemas propostos no URI, isso não significa que seja a única solução correta. Fique a vontade para consultar caso esteja tendo alguma dificuldade.
 
-### Iniciante
-| Número do Problema | Resolução | Linguagem |
+| Nº | Resolução | Linguagem |
 |---|---|---|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 1001 | [Extremamente Básico]() | C |
+| 1002 | [Área do Círculo]() | C |
+| 1003 | [Soma Simples]() | C |
+| 1004 | [Produto Simples]() | C |
+| 1005 | [Média 1]() | C |
+| 1006 | [Média 2]() | C |
+| 1007 | [Diferença]() | C |
+| 1008 | [Salário]() | C |
+| 1010 | [Cálculo Simples]() | C |
+| 1013 | [O Maior]() | C |
+| 1015 | [Distância Entre Dois Pontos]() | C |
+| 1016 | [Distância]() | C |
+| 1017 | [Gasto de Combustível]() | C |

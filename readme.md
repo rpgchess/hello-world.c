@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="img/logo-c.PNG" width="100px" height="100px">
+<p style="text-align: center;">
+  <img src="img/logo-c.png" width="100px" height="100px">
 <p>
 
 <center><h1>Linguagem C</h1></center>
