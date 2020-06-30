@@ -1,6 +1,6 @@
-<p style="text-align: center;">
+<p align="center">
   <img src="../img/logo-uri.png" width="200px" height="100px">
-</p>
+<p>
 
 <h1 style="text-align: center;">URI ONLINE JUDGE</h1>
 
