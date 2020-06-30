@@ -12,16 +12,16 @@ Aqui você encontra as minhas soluções para os problemas propostos no URI, iss
 
 | Nº | Resolução | Linguagem |
 |---|---|---|
-| 1001 | [Extremamente Básico]() | C |
-| 1002 | [Área do Círculo]() | C |
-| 1003 | [Soma Simples]() | C |
-| 1004 | [Produto Simples]() | C |
-| 1005 | [Média 1]() | C |
-| 1006 | [Média 2]() | C |
-| 1007 | [Diferença]() | C |
-| 1008 | [Salário]() | C |
-| 1010 | [Cálculo Simples]() | C |
-| 1013 | [O Maior]() | C |
-| 1015 | [Distância Entre Dois Pontos]() | C |
-| 1016 | [Distância]() | C |
-| 1017 | [Gasto de Combustível]() | C |
+| 1001 | [Extremamente Básico](https://github.com/levxyca/hello-world.c/blob/master/URI/Iniciante/1001.c) | C |
+| 1002 | [Área do Círculo](https://github.com/levxyca/hello-world.c/blob/master/URI/Iniciante/1002.c) | C |
+| 1003 | [Soma Simples](https://github.com/levxyca/hello-world.c/blob/master/URI/Iniciante/1003.c) | C |
+| 1004 | [Produto Simples](https://github.com/levxyca/hello-world.c/blob/master/URI/Iniciante/1004.c) | C |
+| 1005 | [Média 1](https://github.com/levxyca/hello-world.c/blob/master/URI/Iniciante/1005.c) | C |
+| 1006 | [Média 2](https://github.com/levxyca/hello-world.c/blob/master/URI/Iniciante/1006.c) | C |
+| 1007 | [Diferença](https://github.com/levxyca/hello-world.c/blob/master/URI/Iniciante/1007.c) | C |
+| 1008 | [Salário](https://github.com/levxyca/hello-world.c/blob/master/URI/Iniciante/1008.c) | C |
+| 1010 | [Cálculo Simples](https://github.com/levxyca/hello-world.c/blob/master/URI/Iniciante/1010.c) | C |
+| 1013 | [O Maior](https://github.com/levxyca/hello-world.c/blob/master/URI/Iniciante/1013.c) | C |
+| 1015 | [Distância Entre Dois Pontos](https://github.com/levxyca/hello-world.c/blob/master/URI/Iniciante/1015.c) | C |
+| 1016 | [Distância](https://github.com/levxyca/hello-world.c/blob/master/URI/Iniciante/1016.c) | C |
+| 1017 | [Gasto de Combustível](https://github.com/levxyca/hello-world.c/blob/master/URI/Iniciante/1017.c) | C |
