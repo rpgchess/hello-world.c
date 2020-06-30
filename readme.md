@@ -29,6 +29,6 @@
 
 # Resoluções de Exercícios
 
-### [Uri Online Judge]()
+### [Uri Online Judge](https://github.com/levxyca/hello-world.c/tree/master/URI)
 -------------------------------------------------------
 Feito com :hearts: por [Leticia Caroline Leonardo](https://github.com/levxyca)
