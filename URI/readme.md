@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../img/logo-uri.png" width="200px" height="100px">
+  <img src="../img/logo-uri.png" width="400px" height="200px">
 <p>
 
 <h1 style="text-align: center;">URI ONLINE JUDGE</h1>
