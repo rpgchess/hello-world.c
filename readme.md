@@ -2,7 +2,7 @@
   <img src="img/logo-c.png" width="100px" height="100px">
 <p>
 
-<center><h1>Linguagem C</h1></center>
+<h1 align="center">Linguagem C</h1>
 
 # Sumário
 
