@@ -2,7 +2,7 @@
   <img src="../img/logo-uri.png" width="400px" height="200px">
 <p>
 
-<h1 align="center">URI ONLINE JUDGE<h1>
+<h1 align="center">URI ONLINE JUDGE</h1>
 
 O [URI Online Judge](https://www.urionlinejudge.com.br/) contém mais de 1000 problemas divididos em 8 grandes categorias. Esta divisão ajuda os usuários a focar em temas específicos. Todos os problemas estão disponíveis em Português e Inglês.
 
