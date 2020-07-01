@@ -27,5 +27,6 @@ Aqui você encontra as minhas soluções para os problemas propostos no URI, iss
 | 1017 | [Gasto de Combustível](https://github.com/levxyca/hello-world.c/blob/master/URI/Iniciante/1017.c) | C |
 ------------------------
 <p align="center">
-Feito com :hearts: por [Leticia Caroline Leonardo](https://github.com/levxyca)
+Feito com :hearts: por
+<a href="https://github.com/levxyca">Leticia Caroline Leonardo</a>
 <p>
