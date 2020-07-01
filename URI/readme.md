@@ -25,3 +25,7 @@ Aqui você encontra as minhas soluções para os problemas propostos no URI, iss
 | 1015 | [Distância Entre Dois Pontos](https://github.com/levxyca/hello-world.c/blob/master/URI/Iniciante/1015.c) | C |
 | 1016 | [Distância](https://github.com/levxyca/hello-world.c/blob/master/URI/Iniciante/1016.c) | C |
 | 1017 | [Gasto de Combustível](https://github.com/levxyca/hello-world.c/blob/master/URI/Iniciante/1017.c) | C |
+------------------------
+<p align="center">
+Feito com :hearts: por [Leticia Caroline Leonardo](https://github.com/levxyca)
+<p>

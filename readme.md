@@ -31,4 +31,6 @@
 
 ### [Uri Online Judge](https://github.com/levxyca/hello-world.c/tree/master/URI)
 -------------------------------------------------------
+<p align="center">
 Feito com :hearts: por [Leticia Caroline Leonardo](https://github.com/levxyca)
+<p>
