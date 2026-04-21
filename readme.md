@@ -4,6 +4,12 @@
 
 <h1 align="center">Linguagem C</h1>
 
+> **📝 Nota**: Este é um repositório de estudos e referência sobre a linguagem C.  
+> **Créditos**: Conteúdo original por [Leticia Caroline Leonardo (@levxyca)](https://github.com/levxyca)  
+> **Propósito**: Aprendizado e consulta de conceitos fundamentais de C
+
+---
+
 # Sumário
 
 1. [Introdução](https://github.com/levxyca/studynotes/blob/master/Linguagens%20de%20Programa%C3%A7%C3%A3o/C.md#c)
